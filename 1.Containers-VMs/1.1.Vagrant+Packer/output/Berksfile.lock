@@ -1,0 +1,22 @@
+DEPENDENCIES
+  apache2 (~> 8.14.2)
+  java (~> 11.0.1)
+  mariadb (~> 5.2.3)
+  mysql (~> 11.0.4)
+  tomcat (~> 5.0.2)
+
+GRAPH
+  apache2 (8.14.2)
+    yum-epel (>= 0.0.0)
+  apparmor (4.1.0)
+    line (>= 0.0.0)
+  java (11.0.1)
+    line (>= 0.0.0)
+  line (4.4.4)
+  mariadb (5.2.3)
+    selinux (>= 6.0)
+  mysql (11.0.4)
+    apparmor (>= 0.0.0)
+  selinux (6.0.4)
+  tomcat (5.0.2)
+  yum-epel (4.4.1)

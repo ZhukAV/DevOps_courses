@@ -1,0 +1,7 @@
+source "https://supermarket.chef.io"
+
+cookbook 'apache2', '~> 8.14.2'
+cookbook 'mariadb', '~> 5.2.3'
+cookbook 'mysql', '~> 11.0.4'
+cookbook 'java', '~> 11.0.1'
+cookbook 'tomcat', '~> 5.0.2'
