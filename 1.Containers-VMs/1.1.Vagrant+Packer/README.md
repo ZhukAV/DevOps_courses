@@ -6,7 +6,7 @@
 	
 	packer build ubuntu1804.json
 	
-	![Alt text](https://github.com/ZhukAV/DevOps_courses/tree/test/1.Containers-VMs/1.1.Vagrant%2BPacker/screenshotpacker_build.png?raw=true "Build Vagrant Image")
+	![Alt text](https://github.com/ZhukAV/DevOps_courses/tree/test/1.Containers-VMs/1.1.Vagrant%2BPacker/screenshot/packer_build.png?raw=true "Build Vagrant Image")
 	
 #Next, adding new box to Vagrant:
 	
