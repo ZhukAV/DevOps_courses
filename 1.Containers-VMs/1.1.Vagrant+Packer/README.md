@@ -1,3 +1,4 @@
+
 #2.1 Create base box with Ubuntu 18.04 using packer, output format - vagrant:
 #According to tutorial (https://www.serverlab.ca/tutorials/dev-ops/automation/how-to-use-packer-to-create-ubuntu-18-04-vagrant-boxes/) 
 #create a typical directory structure and required files for Packer (ubuntu1804.json, preseed.cfg, init.sh, cleanup.sh).
@@ -5,7 +6,7 @@
 	
 	packer build ubuntu1804.json
 	
-	![Alt text](/screenshot/packer_build.png?raw=true "Build Vagrant Image")
+	![Alt text](https://github.com/ZhukAV/DevOps_courses/tree/test/1.Containers-VMs/1.1.Vagrant%2BPacker/screenshotpacker_build.png?raw=true "Build Vagrant Image")
 	
 #Next, adding new box to Vagrant:
 	

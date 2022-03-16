@@ -1,3 +1,4 @@
+
 #2.9 Working with Kubernetes
 #2.9.1 Install Minikube using official tutorial https://kubernetes.io/ru/docs/tasks/tools/install-minikube/
 	
